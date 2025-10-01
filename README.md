@@ -2,7 +2,7 @@
 
 Hello everyone! 
 
-I'm machine learning engineer with over then two years of experience in neural network development. 
+I'm Data Scientist | ML Engineer with experience in neural network development. 
 
 I have experience in the full development cycle of ML solutions—from problem definition and data processing to integration and deployment in production. Improved task accuracy by 35% compared to the original algorithm and task evaluation speed by 10%.
 
